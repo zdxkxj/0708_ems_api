@@ -1,0 +1,66 @@
+INFO 2020-07-08 22:05:02,681 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:11:06,642 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:11:10,438 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 22:16:33,609 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:16:33,617 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:16:35,637 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:16:35,638 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:21:40,427 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:21:46,004 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:21:47,209 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:25:44,879 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:25:44,899 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:25:46,430 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:25:46,430 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:01:50,670 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:01:52,775 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:02:49,106 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\__init__.py changed, reloading.
+INFO 2020-07-09 00:02:50,537 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:02:51,610 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:06:41,833 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:06:41,837 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:06:44,118 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:06:44,117 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:07:55,897 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\urls.py changed, reloading.
+INFO 2020-07-09 00:07:56,356 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\urls.py changed, reloading.
+INFO 2020-07-09 00:07:57,355 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:07:57,675 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:10:20,866 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:10:21,441 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:10:22,466 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:10:22,716 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:10:50,392 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:10:50,633 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:10:52,415 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:10:52,524 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:11:19,757 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:11:19,962 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:11:21,191 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:11:21,286 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:11:47,030 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:11:48,141 autoreload 222 D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:11:48,703 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:11:49,585 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:29:20,417 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:29:53,631 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:08:54,759 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:21:18,706 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:24:45,412 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:29:24,884 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:35:24,425 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:36:36,600 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:41:31,957 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:43:11,665 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:44:51,754 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:49:38,047 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:14:40,454 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:16:49,203 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:17:38,378 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:18:30,826 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:22:08,186 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:24:43,411 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:33:10,886 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:54:12,588 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 02:58:40,274 autoreload 222 D:\envs\env01\Lib\site-packages\django\apps\registry.py changed, reloading.
+INFO 2020-07-09 03:04:47,945 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 03:05:38,580 autoreload 222 D:\envs\env01\Lib\site-packages\django\apps\registry.py changed, reloading.
