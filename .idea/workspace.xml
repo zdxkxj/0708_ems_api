@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6975b5d3-4f06-4ae1-a545-c623e947cb64" name="Default Changelist" comment="" />
+    <list default="true" id="6975b5d3-4f06-4ae1-a545-c623e947cb64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_api/apps/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_api/apps/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_api/apps/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_api/apps/user/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_api/apps/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_api/libs/geetest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_api/settings/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_api/apps/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_api/apps/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_api/apps/home/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_api/apps/home/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_api/apps/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_api/apps/home/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_api/apps/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_api/apps/home/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_api/settings/develop.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_api/settings/develop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/lesson_api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/lesson_api.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +34,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ePDObrliiK1dCU4E2dw2EcfTVE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,22 +46,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/edu_api/libs" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api\libs" />
+      <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api\apps\user" />
+      <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api\settings" />
+      <recent name="D:\python_project\three\Dango\baizhi\edu_api" />
+      <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api\apps" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api\apps\home" />
       <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api" />
       <recent name="D:\python_project\three\Dango\baizhi\edu_api" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python_project\three\Dango\baizhi\edu_api" />
-      <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api\apps" />
-      <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api\apps\home" />
-      <recent name="D:\python_project\three\Dango\baizhi\edu_api\edu_api" />
-      <recent name="D:\python_project\three\Dango\baizhi\edu_api\settings" />
     </key>
   </component>
   <component name="RunManager" selected="Python.manage">
@@ -114,7 +137,8 @@
       <workItem from="1594217435256" duration="2567000" />
       <workItem from="1594223724769" duration="5810000" />
       <workItem from="1594230081430" duration="2988000" />
-      <workItem from="1594234337971" duration="2583000" />
+      <workItem from="1594234337971" duration="28073000" />
+      <workItem from="1594340110434" duration="49000" />
     </task>
     <servers />
   </component>
@@ -126,32 +150,32 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594216064276" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1594253555042">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1594340187948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594253555042" />
-    <state width="1478" height="288" key="GridCell.Tab.0.bottom" timestamp="1594237509915">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594340187948" />
+    <state width="1478" height="287" key="GridCell.Tab.0.bottom" timestamp="1594312268645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594237509915" />
-    <state width="1478" height="288" key="GridCell.Tab.0.center" timestamp="1594237509915">
+    <state width="1478" height="287" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594312268645" />
+    <state width="1478" height="287" key="GridCell.Tab.0.center" timestamp="1594312268645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594237509915" />
-    <state width="1478" height="288" key="GridCell.Tab.0.left" timestamp="1594237509915">
+    <state width="1478" height="287" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594312268645" />
+    <state width="1478" height="287" key="GridCell.Tab.0.left" timestamp="1594312268645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594237509915" />
-    <state width="1478" height="288" key="GridCell.Tab.0.right" timestamp="1594237509915">
+    <state width="1478" height="287" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594312268645" />
+    <state width="1478" height="287" key="GridCell.Tab.0.right" timestamp="1594312268645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594237509915" />
-    <state x="272" y="57" key="SettingsEditor" timestamp="1594253559788">
+    <state width="1478" height="287" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594312268645" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1594340190194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594253559788" />
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594340190194" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/edu_api$manage.coverage" NAME="manage Coverage Results" MODIFIED="1594237460296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/edu_api$manage.coverage" NAME="manage Coverage Results" MODIFIED="1594312268636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
